@@ -1,0 +1,4 @@
+baseURL = 'https://stefanzweig.github.io/'
+languageCode = 'en-us'
+title = 'Stefan Writes'
+theme = "hyde"
